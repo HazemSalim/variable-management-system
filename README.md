@@ -48,7 +48,7 @@ Before running the application, ensure that the following tools are installed:
      ```
 
 5. **Access Swagger UI**:
-   - After the application starts, open your browser and go to `http://localhost:44360/swagger` to access the Swagger API documentation.
+   - After the application starts, open your browser and go to `https://localhost:44360/swagger/index.html` to access the Swagger API documentation.
    - Swagger allows you to interact with the API directly from your browser, making it easy to test endpoints like creating, updating, and deleting variables.
 
 6. **Using SignalR**:
