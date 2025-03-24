@@ -1,0 +1,6 @@
+@VariableManagementSystem_HostAddress = http://localhost:5215
+
+GET {{VariableManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
